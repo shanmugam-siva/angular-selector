@@ -426,7 +426,7 @@
 							return !scope.inOptions(selectedValues, option);
 						});
 					else
-        				    scope.highlight(scope.filteredOptions.indexOf(scope.selectedValues[0]));
+						scope.highlight(scope.filteredOptions.indexOf(scope.selectedValues[0]));
 				};
 				
 				// Input width utilities
